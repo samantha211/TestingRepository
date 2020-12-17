@@ -4,9 +4,9 @@ This web application was designed as the Final Project requiments for SWEG6409_A
 ## GOAL
 This project aims to showcase and demonstrate REST APIs, Angular and Deployment skills acquired during the SWEG6409_AdvancedProgramminginJava class at Fairfield Univeristy during Spring 2020. Skills demonstrated using this project include:
 
-<p1>HTML5 & CSS<p1>
-Bootstrap
-Javascript
+<br>HTML5 & CSS</br>
+<br>Bootstrap</br>
+<br>Javascript</br>
 Typescript
 Angular 
 Node JS
