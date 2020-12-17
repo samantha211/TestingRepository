@@ -27,10 +27,6 @@ University campus bookstores play an essential role in supporting the academic a
 
 ## USEFUL COMMANDS
 
-<div class="text-blue mb-2">
-  ng serve --open </div>
-Run Angular web application
-
 ```diff
 # ng serve --open   //Run Angular web application
 # ng g c    //Component Farming
@@ -40,12 +36,13 @@ Run Angular web application
 # src/assets    
 ``` 
 
-
-
 ## STACKS USED
 <li>Angular/CLI 10.1.7</li>
 <li>Bootstrap 1.5.3</li>
 <li>Spring Boot 4.7.2 release</li>
+
+## RESOURCES USED
+https://angular.io/docs
 
 
 
