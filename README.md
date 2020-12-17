@@ -28,21 +28,13 @@ University campus bookstores play an essential role in supporting the academic a
 ## USEFUL COMMANDS
 
 ```diff
-# ng serve --open
+# ng serve --open   //Run Angular web application
+ng g c    //Component Farming
+ng install bootstrap --save   //Install Bootstrap
+mv node_modules/bootstrap/dist    //Move Files
+npm start   //Start frontend
+src/assets    
 ``` 
-```diff
-open
-``` 
-<p style='color:red'>This is some red text.</p>
-<font color="red">This is some text!</font>
-These are <b style='color:red'>red words</b>.
-
-<div class="bg-gray"> ng serve --open </div>
-<div class="bg-gray">ng g c </div>    (component farming) //generate components
-<div class="bg-gray">ng install bootstrap --save </div> (install bootstrap)
-<div class="bg-gray">mv node_modules/bootstrap/dist </div> (move files around)
-<div class="bg-gray">npm start </div> (start frontend/angular)
-<div class="bg-gray">src/assets </div>
 
 <div class="bg-gray">
   .text-gray-dark on .bg-gray
