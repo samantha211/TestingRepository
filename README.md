@@ -2,7 +2,7 @@
 <p align="justify">This web application was designed as the Final Project requiments for SWEG6409_AdvancedProgramminginJava class at Fairfield University.</p>
 
 ## GOAL
-<p align="justify">This project aims to showcase and demonstrate REST APIs, Angular and Deployment skills acquired during the SWEG6409_AdvancedProgramminginJava class at Fairfield Univeristy during Spring 2020. Skills demonstrated using this project include:</p>
+This project aims to showcase and demonstrate REST APIs, Angular and Deployment skills acquired during the SWEG6409_AdvancedProgramminginJava class at Fairfield Univeristy during Spring 2020. Skills demonstrated using this project include:
 
 <ul style="list-style-type:disc">
 <li>HTML5 & CSS</li>
