@@ -33,6 +33,10 @@ University campus bookstores play an essential role in supporting the academic a
 <div class="bg-gray">npm start </div> (start frontend/angular)
 <div class="bg-gray">src/assets </div>
 
+<div class="bg-gray">
+  .text-gray-dark on .bg-gray
+</div>
+
 
 ## STACKS USED
 <li>Angular/CLI 10.1.7</li>
