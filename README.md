@@ -15,6 +15,7 @@
 <li>MySQL Database</li>
 <li>Deployment using Amazon Web Services and Heroku</li>
 <li>Test Automation</li>
+<li>GitHub --Used to organize files, push and pull code, deployment to Heroku</li>
 
 ## BUSINESS NEED
 <p align="justify">
@@ -27,8 +28,7 @@ ng g c     (component farming) //generate components
 ng install bootstrap --save(install bootstrap)
 mv node_modules/bootstrap/dist (move files around)
 npm start (start frontend/angular)
-
-
+src/assets
 
 
 ## STACKS USED
