@@ -26,6 +26,13 @@ University campus bookstores play an essential role in supporting the academic a
 </p>
 
 ## USEFUL COMMANDS
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
 <p style='color:red'>This is some red text.</p>
 <font color="red">This is some text!</font>
 These are <b style='color:red'>red words</b>.
