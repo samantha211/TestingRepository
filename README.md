@@ -29,7 +29,7 @@ University campus bookstores play an essential role in supporting the academic a
 
 ```diff
 # ng serve --open   //Run Angular web application
-ng g c    //Component Farming
+## ng g c    //Component Farming
 ng install bootstrap --save   //Install Bootstrap
 mv node_modules/bootstrap/dist    //Move Files
 npm start   //Start frontend
