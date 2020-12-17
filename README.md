@@ -6,12 +6,12 @@ This project aims to showcase and demonstrate REST APIs, Angular and Deployment 
 
 <ul style="list-style-type:disc">
   <li>HTML5 & CSS</li>
-<p>Bootstrap</p>
-<p>Javascript</p>
-<p>Typescript</p>
-<p>Angular</p>
-<p>Node JS</p>
-<p>Rest Service APIs including demonstration of CRUD (Create, Read, Update, Delete)</p>
+ <li>Bootstrap</li>
+ <li>Javascript</li>
+ <li>Typescript</li>
+ <li>Angular</li>
+ <li>Node JS</li>
+ <li>Rest Service APIs including demonstration of CRUD (Create, Read, Update, Delete)</li>
 <p>MySQL Database</p>
 <p>Deployment using Amazon Web Services and Heroku</p>
 <p>Test Automation</p>
