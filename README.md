@@ -23,6 +23,13 @@ University campus bookstores play an essential role in supporting the academic a
 
 ## USEFUL COMMANDS
 ng serve --open
+ng g c     (component farming) //generate components
+ng install bootstrap --save(install bootstrap)
+mv node_modules/bootstrap/dist (move files around)
+npm start (start frontend/angular)
+
+
+
 
 ## STACKS USED
 <li>Angular/CLI 10.1.7</li>
