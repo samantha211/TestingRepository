@@ -18,16 +18,16 @@
 
 ## BUSINESS NEED
 <p align="justify">
-University campus bookstores play an essential role in supporting the academic activity of students and the research work of staff, and well as the cultural lide of the university. At a time when universities are trying to accomodoate lower costs for students, the university campus bookstore can play a significant role by adding income to the campus, thereby offsetting certain fees charged to students. With the current pandemic reuslting in virtual classes, the Fairfield University campus and facilities have shut down for in-person classes, and the Fairfield University Bookstore is indefintely closed. This has had a noticeable impact on campus revenue. As Fairfield University students, we decided to put our Software Engineering skills to use by building an online web application for the Fairfield University Store. This will allow students and faculty to continue to make purchases at the Fairfield University Store while being socially distanced in the safety of their homes.
+University campus bookstores play an essential role in supporting the academic activity of students and the research work of staff, and well as the cultural lide of the university. At a time when universities are trying to accomodoate lower costs for students, the university campus bookstore can play a significant role by adding income to the campus, thereby offsetting certain fees charged to students. With the current pandemic reuslting in virtual classes, the Fairfield University campus and facilities are shut down and the Fairfield University Bookstore is indefintely closed. This has had a noticeable impact on campus revenue. As Fairfield University students, we decided to put our Software Engineering skills to use by building an online web application for the Fairfield University Store. This will allow students and faculty to continue to make purchases at the Fairfield University Store while being socially distanced in the safety of their homes.
 </p>
 
 ## USEFUL COMMANDS
-
+ng serve --open
 
 ## STACKS USED
-<li>Angular</li>
-<li>Bootstrap 4</li>
-<li>Spring Boot Web Services</li>
+<li>Angular/CLI 10.1.7</li>
+<li>Bootstrap 1.5.3</li>
+<li>Spring Boot 4.7.2 release</li>
 
 
 
