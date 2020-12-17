@@ -28,10 +28,7 @@ University campus bookstores play an essential role in supporting the academic a
 ## USEFUL COMMANDS
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
+# ng serve --open
 ```
 <p style='color:red'>This is some red text.</p>
 <font color="red">This is some text!</font>
