@@ -12,9 +12,9 @@ This project aims to showcase and demonstrate REST APIs, Angular and Deployment 
  <li>Angular</li>
  <li>Node JS</li>
  <li>Rest Service APIs including demonstration of CRUD (Create, Read, Update, Delete)</li>
-<p>MySQL Database</p>
-<p>Deployment using Amazon Web Services and Heroku</p>
-<p>Test Automation</p>
+<li>MySQL Database</li>
+<li>Deployment using Amazon Web Services and Heroku</li>
+<li>Test Automation</li>
 
 ## BUSINESS NEED
 
