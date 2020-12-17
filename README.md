@@ -42,6 +42,7 @@ University campus bookstores play an essential role in supporting the academic a
 <li>Spring Boot 4.7.2 release</li>
 
 ## RESOURCES USED
+[ANGULAR DOCUMENTATION](https://angular.io/docs)
 https://angular.io/docs
 
 
