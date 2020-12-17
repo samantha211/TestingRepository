@@ -5,7 +5,7 @@ This web application was designed as the Final Project requiments for SWEG6409_A
 This project aims to showcase and demonstrate REST APIs, Angular and Deployment skills acquired during the SWEG6409_AdvancedProgramminginJava class at Fairfield Univeristy during Spring 2020. Skills demonstrated using this project include:
 
 <ul style="list-style-type:disc">
-  <li><p>HTML5 & CSS</p></li>
+  <li>HTML5 & CSS</li>
 <p>Bootstrap</p>
 <p>Javascript</p>
 <p>Typescript</p>
