@@ -27,9 +27,9 @@ University campus bookstores play an essential role in supporting the academic a
 
 ## USEFUL COMMANDS
 
-<div class="text-gray mb-2">
-  ng serve --open
-</div> Run Angular web application
+<div class="text-blue mb-2">
+  ng serve --open <div>
+Run Angular web application
 
 ```diff
 # ng serve --open   //Run Angular web application
