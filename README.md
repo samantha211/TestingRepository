@@ -11,7 +11,7 @@
 <li>Typescript</li>
 <li>Angular</li>
 <li>Node JS</li>
-<li>Rest Service APIs including demonstration of CRUD (Create, Read, Update, Delete)</li>
+<li>Rest Service APIs including CRUD demonstration(Create, Read, Update, Delete)</li>
 <li>MySQL Database</li>
 <li>Deployment using Amazon Web Services and Heroku</li>
 <li>Test Automation</li>
